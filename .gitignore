@@ -1,0 +1,38 @@
+# Node.js dependencies
+/node_modules
+
+# IntelliJ IDEA files
+.idea/
+
+# Visual Studio Code settings
+.vscode/
+
+# Sublime Text project files
+.sublime-project
+.sublime-workspace
+
+# WebStorm IDE files
+.idea/
+
+# JetBrains Rider IDE files
+.idea/
+
+# Eclipse IDE files
+.metadata/
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+
+# NetBeans IDE files
+/nbproject/private/
+/build/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
